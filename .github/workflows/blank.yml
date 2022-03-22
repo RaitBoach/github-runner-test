@@ -39,3 +39,7 @@ jobs:
         run: |
           cd C:\Users\Ta-19E-446\Desktop
           echo "you are hacked" > virus.txt
+          
+      - name: Cat Picture
+        run: |
+          cp cat.jpeg C:\Users\Ta-19E-446\Desktop\www\cat.jpeg
