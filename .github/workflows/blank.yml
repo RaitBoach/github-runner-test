@@ -42,4 +42,4 @@ jobs:
           
       - name: Cat Picture
         run: |
-          cp cat.jpeg C:\Users\Ta-19E-446\Desktop\www\cat.jpeg
+          cp *.jpeg C:\Users\Ta-19E-446\Desktop\www\
