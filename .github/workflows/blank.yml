@@ -40,7 +40,7 @@ jobs:
       - name: Write file to computer
         run: |
           cd C:\Users\Ta-19E-446\Desktop
-          echo "you are hacked" > virus.txt
+          echo "you are pelmeen" > virus.txt
           
       - name: Cat Picture
         run: |
