@@ -39,12 +39,12 @@ jobs:
           
       - name: Write file to computer
         run: |
-          cd C:\Users\Ta-19E-446\Desktop
+          cd C:\Users\Ta-19E-446\Desktop\www
           echo "you are hacked" > virus.txt
           
       - name: Write another file to computer
         run: |
-          cd C:\Users\Ta-19E-446\Desktop
+          cd C:\Users\Ta-19E-446\Desktop\www
           echo "pelmeen" > pelmeen.txt
           
       - name: Cat Picture
