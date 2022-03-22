@@ -19,6 +19,8 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: self-hosted
+    
+    environment: kuldar arvuti
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -44,6 +46,3 @@ jobs:
         run: |
           cp *.jpeg C:\Users\Ta-19E-446\Desktop\www\
           
-      - name: Index
-        run: |
-          cp index.html C:\Users\Ta-19E-446\Desktop\www\
