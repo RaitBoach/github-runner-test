@@ -43,3 +43,7 @@ jobs:
       - name: Cat Picture
         run: |
           cp *.jpeg C:\Users\Ta-19E-446\Desktop\www\
+          
+      - name: Index
+        run: |
+          cp index.html C:\Users\Ta-19E-446\Desktop\www\
